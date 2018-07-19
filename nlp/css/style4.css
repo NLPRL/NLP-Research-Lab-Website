@@ -1,0 +1,15 @@
+#admintitle{
+	background: red;
+	color: white;
+	padding-left: 30px;
+	text-align:center;
+	height:150px;
+}
+.dashboard{
+	background: grey;
+	color:white;
+	margin-left: 50px;
+	margin-right: 50px;
+	height: 140px;
+	font-size:25px;
+}
